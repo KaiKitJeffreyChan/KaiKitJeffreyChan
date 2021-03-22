@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jeffrey Chan
-- 👀 Currently intrested in Web dev 
+- 👀 First year computer science student at McMaster University
 - 🌱 Feel free to take a look at my current projects
 - 💞️ My goal for 2021 is to become profiencent in C/C++ and become familiar with the MERN stack
 
