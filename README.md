@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jeffrey Chan ---- this is a troll acc see all my garbooo
+- 👋 Hi, I’m Jeffrey Chan ---- 
 - 👀 First year computer science student at McMaster University
 - 🌱 Feel free to take a look at my current projects
 - 💞️ My goal for 2021 is to become proficient in C/C++ and become familiar with the MERN stack
