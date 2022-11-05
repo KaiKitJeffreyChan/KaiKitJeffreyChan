@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jeffrey Chan ---- 
-- 👀 Second year computer science student at McMaster University
+- 👀 Third year computer science student at McMaster University
 - 🌱 Feel free to take a look at my current projects at [https://kaikitjeffreychan.github.io/Personal-Website]
 
 <!---
