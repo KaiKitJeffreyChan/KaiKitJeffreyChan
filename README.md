@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jeffrey Chan ---- 
-- 👀 Third year computer science student at McMaster University
+- 👀 Completed undergraduate degree in computer science student at McMaster University
 - 🌱 Feel free to take a look at my current [projects](https://kkjeffreychan.com/)
 
 <!---
